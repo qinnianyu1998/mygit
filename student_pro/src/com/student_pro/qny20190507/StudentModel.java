@@ -45,10 +45,6 @@ public class StudentModel {
 		this.sex = sex;
 		this.love = love;
 	}
-	public StudentModel() {
-		super();
-		// TODO Auto-generated constructor stub
-	}
 	
 	
 }
